@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1721934882490" clover="3.2.0">
+  <project timestamp="1721934882490" name="All files">
+    <metrics statements="49" coveredstatements="47" conditionals="27" coveredconditionals="20" methods="8" coveredmethods="6" elements="84" coveredelements="73" complexity="0" loc="49" ncloc="49" packages="5" files="6" classes="6"/>
+    <package name="components.Disclaimer">
+      <metrics statements="13" coveredstatements="13" conditionals="15" coveredconditionals="13" methods="1" coveredmethods="1"/>
+      <file name="Disclaimer.tsx" path="/Users/daviv/Dev/subscription-form/src/components/Disclaimer/Disclaimer.tsx">
+        <metrics statements="13" coveredstatements="13" conditionals="15" coveredconditionals="13" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="19" count="6" type="stmt"/>
+        <line num="21" count="6" type="stmt"/>
+        <line num="24" count="6" type="cond" truecount="1" falsecount="0"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="31" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="38" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="39" count="3" type="stmt"/>
+        <line num="42" count="3" type="stmt"/>
+        <line num="43" count="3" type="stmt"/>
+        <line num="48" count="6" type="stmt"/>
+        <line num="51" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Form">
+      <metrics statements="14" coveredstatements="12" conditionals="9" coveredconditionals="4" methods="3" coveredmethods="1"/>
+      <file name="Form.tsx" path="/Users/daviv/Dev/subscription-form/src/components/Form/Form.tsx">
+        <metrics statements="14" coveredstatements="12" conditionals="9" coveredconditionals="4" methods="3" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="44" count="2" type="stmt"/>
+        <line num="160" count="0" type="stmt"/>
+        <line num="173" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Form.FieldGroups">
+      <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="BillingFrequencyField.tsx" path="/Users/daviv/Dev/subscription-form/src/components/Form/FieldGroups/BillingFrequencyField.tsx">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+      </file>
+      <file name="TrialPeriodField.tsx" path="/Users/daviv/Dev/subscription-form/src/components/Form/FieldGroups/TrialPeriodField.tsx">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="19" count="5" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="48" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.NavBar">
+      <metrics statements="8" coveredstatements="8" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="2"/>
+      <file name="NavBar.tsx" path="/Users/daviv/Dev/subscription-form/src/components/NavBar/NavBar.tsx">
+        <metrics statements="8" coveredstatements="8" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="theme">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.ts" path="/Users/daviv/Dev/subscription-form/src/theme/index.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
